@@ -1,5 +1,4 @@
-Olá 👋 Meu nome é:  
-  Ravena Dafne
+Olá 👋 Meu nome é:                        Ravena Dafne
 =============================
 ### Resumo Profissional
 
