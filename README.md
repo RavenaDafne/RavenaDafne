@@ -1,7 +1,17 @@
 Olá 👋 Meu nome é:  
   Ravena Dafne
 =============================
+### Resumo Profissional
 
+Experiência prática em Java, SpringBoot, Flutter e React, já trabalhei no desenvolvimento de
+aplicações web e mobile com foco em eficiência, escalabilidade e boas práticas de código.
+Durante minha trajetória, participei da criação de APIs RESTful, modelagem de banco de dados
+em MySQL, e implementei interfaces de usuário responsivas que melhoraram a experiência final
+dos usuários. Também utilizei ferramentas como Git, GitLab e Maven para gerenciar projetos e
+garantir a entrega com qualidade.
+Familiaridade em metodologias ágeis como Scrum e Kanban, sempre buscando entregar
+resultados eficientes em equipes colaborativas e dinâmicas. Sou apaixonada por resolver
+problemas complexos e criar soluções inovadoras que gerem impacto positivo.
 
 ### Skills
 
